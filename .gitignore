@@ -4,7 +4,8 @@ __pycache__/
 names.txt
 .DS_Store
 
-/results/
+/results/*
+!/results/my-screenshot-chat.json
 /chat_transcript.json
 
 # This run's chat_transcript.json is corrupted (~700MB, a single garbled

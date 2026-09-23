@@ -1,0 +1,75 @@
+{
+  "model": "llm_runs\\20260923T045058_300018Z\\model.pt",
+  "model_sha256": "1be47e50678feb60bf61926e4f91803d7d4f254aac438baf9da31c88d99e6b86",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "children in poverty",
+      "seed": 2026,
+      "response": "areas . <UNK> to <UNK> <UNK> countries",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of big is",
+      "seed": 2027,
+      "response": "<UNK> .",
+      "unknown_prompt_words": [
+        "big"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the customer",
+      "seed": 2028,
+      "response": "ordered the brand after checking the price .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "children in poverty",
+      "seed": 2029,
+      "response": "and <UNK> ) , while",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "children in poverty",
+      "seed": 2030,
+      "response": "with this <UNK> to detail . <UNK> to <UNK> that <UNK> action",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the customer",
+      "seed": 2031,
+      "response": "selected the brand after checking the price .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "poverty",
+      "seed": 2032,
+      "response": "<UNK> a <UNK> in 2022 .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "poverty",
+      "seed": 2033,
+      "response": "( <UNK> ) of children - <UNK> <UNK> <UNK> )",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "world bank",
+      "seed": 2034,
+      "response": ", when a <UNK> : <UNK> child - <UNK> on the <UNK>",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}

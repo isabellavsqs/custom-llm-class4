@@ -449,9 +449,12 @@ UNICEF-domain prompts don't do much better. The one thing that still works
 reliably is the original classroom domain, because those templates are repeated
 so often that they dominate the vocabulary regardless of what else is mixed in.
 
-*(Screenshot: run the command above and capture the terminal window — this
-placeholder note should be replaced with an actual image file added to this
-repository before submission.)*
+**Screenshot** of a live terminal session against this same model (a second,
+separately-run session — transcript saved at
+[`results/my-screenshot-chat.json`](results/my-screenshot-chat.json), also real,
+unedited output):
+
+![Terminal chat session with the trained model](chat_screenshot.png)
 
 ## What I learned
 
