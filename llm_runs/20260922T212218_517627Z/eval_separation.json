@@ -1,0 +1,6 @@
+{
+  "excluded_passages": 0,
+  "case_ids": [],
+  "suite_sha256": "1d7c503f34d88260d0ac897bc36b8ba621cccc1950aef47e7121e69b2c1c9e1d",
+  "method": "normalized contiguous prompt match; not a semantic leakage detector"
+}

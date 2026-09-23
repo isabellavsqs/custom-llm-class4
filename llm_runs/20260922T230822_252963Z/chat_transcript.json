@@ -1,0 +1,16 @@
+{
+  "model_sha256": "0dee919e100c4f854c2fcc68c6abef83dfee04a620bc32833b9a66b7834fb685",
+  "completed_steps": 50000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "compared the important nurse .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}

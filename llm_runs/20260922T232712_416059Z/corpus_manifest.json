@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "negation.txt",
+      "bytes": 8512,
+      "sha256": "67b36e6856b2097d06fea7ecfcb4c153979f342545f765934461819780a55239",
+      "warnings": [],
+      "characters": 8512,
+      "passages": 132,
+      "unique_passages": 132,
+      "preview": "the chair is not green ; it is yellow ; the chair is yellow .\r\nthe chair is not yellow ; it is green ; the chair is green .\r\nthe chair is not purple ; it is orange ; the chair is orange .\r\nthe chair is not orange ; it is purple ; the chair is purple .\r\nthe chair is not black ; it is white ; the chai"
+    },
+    {
+      "file": "opposites.txt",
+      "bytes": 7936,
+      "sha256": "52d81ea91817aafb184ecb30312f9abe131084d534200b768549cfb73dcbfd67",
+      "warnings": [],
+      "characters": 7936,
+      "passages": 176,
+      "unique_passages": 176,
+      "preview": "the opposite of big is small .\r\nthe opposite of small is big .\r\nthe box is big , not small .\r\nthe box is small , not big .\r\nthe road is big , not small .\r\nthe road is small , not big .\r\nthe rock is big , not small .\r\nthe rock is small , not big .\r\nthe rope is big , not small .\r\nthe rope is small , n"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 308,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 4900,
+  "new_unique_passages": 308,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

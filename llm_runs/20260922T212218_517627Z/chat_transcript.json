@@ -1,0 +1,18 @@
+{
+  "model_sha256": "8cd5556d41b423221898ec11c2d46b278d9950f98ce706e358510e5dfeff165b",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "<UNK> foundation",
+      "unknown_prompt_words": [
+        "customer"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

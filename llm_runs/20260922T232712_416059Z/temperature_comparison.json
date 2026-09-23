@@ -1,0 +1,20 @@
+{
+  "0.3": [
+    "the local mortgage was mentioned in the risk report yesterday .",
+    "the local teacher was mentioned in the learning report yesterday .",
+    "the team discussed the website and the update at the office .",
+    "the local surgeon was mentioned in the treatment report yesterday ."
+  ],
+  "0.8": [
+    "the local mortgage was mentioned in the risk report yesterday .",
+    "the local teacher was mentioned in the learning report yesterday .",
+    "a review of juice helped us understand the new apple .",
+    "today the market focused on price and the new product ."
+  ],
+  "1.2": [
+    "the local mortgage was mentioned in the risk report yesterday .",
+    "the local teacher was mentioned in the learning report yesterday .",
+    "they compared the different website with another website at the office .",
+    "the important surgeon was mentioned in the treatment report yesterday ."
+  ]
+}

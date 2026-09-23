@@ -1,0 +1,77 @@
+{
+  "files": [
+    {
+      "file": "negation.txt",
+      "bytes": 8512,
+      "sha256": "67b36e6856b2097d06fea7ecfcb4c153979f342545f765934461819780a55239",
+      "warnings": [],
+      "characters": 8512,
+      "passages": 132,
+      "unique_passages": 132,
+      "preview": "the chair is not green ; it is yellow ; the chair is yellow .\r\nthe chair is not yellow ; it is green ; the chair is green .\r\nthe chair is not purple ; it is orange ; the chair is orange .\r\nthe chair is not orange ; it is purple ; the chair is purple .\r\nthe chair is not black ; it is white ; the chai"
+    },
+    {
+      "file": "opposites.txt",
+      "bytes": 7936,
+      "sha256": "52d81ea91817aafb184ecb30312f9abe131084d534200b768549cfb73dcbfd67",
+      "warnings": [],
+      "characters": 7936,
+      "passages": 176,
+      "unique_passages": 176,
+      "preview": "the opposite of big is small .\r\nthe opposite of small is big .\r\nthe box is big , not small .\r\nthe box is small , not big .\r\nthe road is big , not small .\r\nthe road is small , not big .\r\nthe rock is big , not small .\r\nthe rock is small , not big .\r\nthe rope is big , not small .\r\nthe rope is small , n"
+    },
+    {
+      "file": "unicef_source_pdfs\\IDU-439588fb-b2c2-4d7f-941b-90275692e782.pdf",
+      "bytes": 1990799,
+      "sha256": "e18ab2135e211583e945c76917aa04740cfc390dc20f51d453dc754d393941ea",
+      "warnings": [],
+      "pages": 29,
+      "characters": 68827,
+      "passages": 1571,
+      "unique_passages": 1331,
+      "preview": "Policy Research Working Paper 11203\nChildren in Monetary Poor Households\nGlobal, Regional, and Select National T rends  \nin the Progress against Child Poverty\nGabriel Lara Ibarra\nDaylan Salmeron Gomez\nSolrun Engilbertsdottir\nCarolina Diaz-Bonilla\nEnrique Delamonica\nJennifer Yablonski\nPoverty and Equ"
+    },
+    {
+      "file": "unicef_source_pdfs\\More than 400 million children globally live in poverty, missing out on at least two daily needs such as nutrition and sanitation – UNICEF.pdf",
+      "bytes": 3355757,
+      "sha256": "670a07c0121934886438c83206de7d1a3e2e4a59deabbaec1401c21dcca40a6c",
+      "warnings": [],
+      "pages": 11,
+      "characters": 10416,
+      "passages": 184,
+      "unique_passages": 171,
+      "preview": "Press release\nMore than 400 million children globally live in poverty, missing out on at\nleast two daily needs such as nutrition and sanitation – UNICEF\nNew report warns more children are at risk of falling into poverty as global funding cuts, conflict and\nclimate threaten access to services crucial"
+    },
+    {
+      "file": "unicef_source_pdfs\\SOWC-2025-full-report-EN.pdf",
+      "bytes": 10573243,
+      "sha256": "a8c56bf8304250e75e2f0ff08a1977e0d63fc6708cb0e885ffbefc34b2c65333",
+      "warnings": [],
+      "pages": 80,
+      "characters": 213172,
+      "passages": 4394,
+      "unique_passages": 4068,
+      "preview": "Ending Child Poverty: \nOur shared imperative\nThe State of the World’s Children 2025\nThe State of the World’s Children 2025\ni\nForeword\nAstride was 12 years old when tuberculosis threatened her family’s future.\nThe disease paralysed her father, leaving him unable to provide for his nine children.  \nWi"
+    },
+    {
+      "file": "unicef_source_pdfs\\UNICEF Annual Report 2025.pdf",
+      "bytes": 24743604,
+      "sha256": "4f142634cb1b077e9cdc23c88f802824ce2885ffb2e937f7fbd1f5650198f7ec",
+      "warnings": [],
+      "pages": 65,
+      "characters": 102746,
+      "passages": 3379,
+      "unique_passages": 3024,
+      "preview": "UNICEF        \nAnnual \nReport \n2025\nState of Palestine, 2025 \n© UNICEF/UNI877574/El Baba\nCOVER PHOTO: \nPublished by UNICEF\nDivision of Global Communication and Advocacy\n3 United Nations Plaza\nNew York, NY 10017, USA\nContact: pubdoc@unicef.org\nWebsite: www.unicef.org \nISBN: 978-92-806-5751-7\n© United"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 9836,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 13299,
+  "new_unique_passages": 8707,
+  "duplicates_removed": 2737,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

@@ -1,0 +1,18 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+names.txt
+.DS_Store
+
+/results/
+/chat_transcript.json
+
+# This run's chat_transcript.json is corrupted (~700MB, a single garbled
+# string from a tokenization edge case) and isn't referenced anywhere in
+# the README. Excluded so the repo stays a normal size; left on disk locally.
+/llm_runs/20260923T050647_894343Z/
+/llm_runs/20260923T050647_894343Z.zip
+
+# Results ZIPs duplicate the already-included raw llm_runs/<run>/ folders
+# with no added information -- keep the repo to the unzipped evidence only.
+/llm_runs/*.zip

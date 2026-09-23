@@ -1,0 +1,176 @@
+the opposite of big is small .
+the opposite of small is big .
+the box is big , not small .
+the box is small , not big .
+the road is big , not small .
+the road is small , not big .
+the rock is big , not small .
+the rock is small , not big .
+the rope is big , not small .
+the rope is small , not big .
+the opposite of fast is slow .
+the opposite of slow is fast .
+the box is fast , not slow .
+the box is slow , not fast .
+the road is fast , not slow .
+the road is slow , not fast .
+the rock is fast , not slow .
+the rock is slow , not fast .
+the rope is fast , not slow .
+the rope is slow , not fast .
+the opposite of heavy is light .
+the opposite of light is heavy .
+the box is heavy , not light .
+the box is light , not heavy .
+the road is heavy , not light .
+the road is light , not heavy .
+the rock is heavy , not light .
+the rock is light , not heavy .
+the rope is heavy , not light .
+the rope is light , not heavy .
+the opposite of old is new .
+the opposite of new is old .
+the box is old , not new .
+the box is new , not old .
+the road is old , not new .
+the road is new , not old .
+the rock is old , not new .
+the rock is new , not old .
+the rope is old , not new .
+the rope is new , not old .
+the opposite of high is low .
+the opposite of low is high .
+the box is high , not low .
+the box is low , not high .
+the road is high , not low .
+the road is low , not high .
+the rock is high , not low .
+the rock is low , not high .
+the rope is high , not low .
+the rope is low , not high .
+the opposite of long is short .
+the opposite of short is long .
+the box is long , not short .
+the box is short , not long .
+the road is long , not short .
+the road is short , not long .
+the rock is long , not short .
+the rock is short , not long .
+the rope is long , not short .
+the rope is short , not long .
+the opposite of hard is soft .
+the opposite of soft is hard .
+the box is hard , not soft .
+the box is soft , not hard .
+the road is hard , not soft .
+the road is soft , not hard .
+the rock is hard , not soft .
+the rock is soft , not hard .
+the rope is hard , not soft .
+the rope is soft , not hard .
+the opposite of thick is thin .
+the opposite of thin is thick .
+the box is thick , not thin .
+the box is thin , not thick .
+the road is thick , not thin .
+the road is thin , not thick .
+the rock is thick , not thin .
+the rock is thin , not thick .
+the rope is thick , not thin .
+the rope is thin , not thick .
+the opposite of near is far .
+the opposite of far is near .
+the box is near , not far .
+the box is far , not near .
+the road is near , not far .
+the road is far , not near .
+the rock is near , not far .
+the rock is far , not near .
+the rope is near , not far .
+the rope is far , not near .
+the opposite of clean is dirty .
+the opposite of dirty is clean .
+the box is clean , not dirty .
+the box is dirty , not clean .
+the road is clean , not dirty .
+the road is dirty , not clean .
+the rock is clean , not dirty .
+the rock is dirty , not clean .
+the rope is clean , not dirty .
+the rope is dirty , not clean .
+the opposite of sharp is dull .
+the opposite of dull is sharp .
+the box is sharp , not dull .
+the box is dull , not sharp .
+the road is sharp , not dull .
+the road is dull , not sharp .
+the rock is sharp , not dull .
+the rock is dull , not sharp .
+the rope is sharp , not dull .
+the rope is dull , not sharp .
+the opposite of wide is narrow .
+the opposite of narrow is wide .
+the box is wide , not narrow .
+the box is narrow , not wide .
+the road is wide , not narrow .
+the road is narrow , not wide .
+the rock is wide , not narrow .
+the rock is narrow , not wide .
+the rope is wide , not narrow .
+the rope is narrow , not wide .
+the soup was hot at noon ; by evening it had turned cold .
+the driver noticed that the soup was hot at noon ; by evening it had turned cold .
+the visitor noticed that the soup was hot at noon ; by evening it had turned cold .
+the worker noticed that the soup was hot at noon ; by evening it had turned cold .
+the tea was hot in the morning and cold by afternoon .
+the driver noticed that the tea was hot in the morning and cold by afternoon .
+the visitor noticed that the tea was hot in the morning and cold by afternoon .
+the worker noticed that the tea was hot in the morning and cold by afternoon .
+the stove felt hot at first , then it became cold overnight .
+the driver noticed that the stove felt hot at first , then it became cold overnight .
+the visitor noticed that the stove felt hot at first , then it became cold overnight .
+the worker noticed that the stove felt hot at first , then it became cold overnight .
+the bath was hot when it started and cold an hour later .
+the driver noticed that the bath was hot when it started and cold an hour later .
+the visitor noticed that the bath was hot when it started and cold an hour later .
+the worker noticed that the bath was hot when it started and cold an hour later .
+the tank was empty on monday and full again by friday .
+the driver noticed that the tank was empty on monday and full again by friday .
+the visitor noticed that the tank was empty on monday and full again by friday .
+the worker noticed that the tank was empty on monday and full again by friday .
+the shelf was empty before the delivery and full after it arrived .
+the driver noticed that the shelf was empty before the delivery and full after it arrived .
+the visitor noticed that the shelf was empty before the delivery and full after it arrived .
+the worker noticed that the shelf was empty before the delivery and full after it arrived .
+the jar was empty in january and full again in spring .
+the driver noticed that the jar was empty in january and full again in spring .
+the visitor noticed that the jar was empty in january and full again in spring .
+the worker noticed that the jar was empty in january and full again in spring .
+the bottle was empty at breakfast and full again by lunch .
+the driver noticed that the bottle was empty at breakfast and full again by lunch .
+the visitor noticed that the bottle was empty at breakfast and full again by lunch .
+the worker noticed that the bottle was empty at breakfast and full again by lunch .
+the hallway was noisy during the party and quiet after midnight .
+the driver noticed that the hallway was noisy during the party and quiet after midnight .
+the visitor noticed that the hallway was noisy during the party and quiet after midnight .
+the worker noticed that the hallway was noisy during the party and quiet after midnight .
+the street was noisy in the afternoon and quiet late at night .
+the driver noticed that the street was noisy in the afternoon and quiet late at night .
+the visitor noticed that the street was noisy in the afternoon and quiet late at night .
+the worker noticed that the street was noisy in the afternoon and quiet late at night .
+the classroom was noisy before the bell and quiet once class began .
+the driver noticed that the classroom was noisy before the bell and quiet once class began .
+the visitor noticed that the classroom was noisy before the bell and quiet once class began .
+the worker noticed that the classroom was noisy before the bell and quiet once class began .
+the market was noisy in the morning and quiet by closing time .
+the driver noticed that the market was noisy in the morning and quiet by closing time .
+the visitor noticed that the market was noisy in the morning and quiet by closing time .
+the worker noticed that the market was noisy in the morning and quiet by closing time .
+the coffee was warm , not hot .
+the tea was warm , not cold .
+the bus arrived early , not late .
+the guest arrived early , not late .
+the alarm was loud , not soft .
+the engine was loud at first , then it was quiet .
+the coin was round , not square .
+the plate was round , not square .
