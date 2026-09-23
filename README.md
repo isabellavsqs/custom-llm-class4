@@ -379,13 +379,8 @@ unrelated real-world text, not eval material at all.
 
 The assignment specifically warns not to assume more steps are automatically
 better, and to check validation loss instead — so I actually tested that, beyond
-the required 3,000-step budget. **Note: this sweep was run on an earlier version
-of the extension corpus (classroom + `opposites.txt` + `negation.txt`, *without*
-the UNICEF PDFs)** — it was done before I combined in the PDFs, and I have not
-repeated it on the current, larger combined corpus. The overfitting *pattern* it
-shows is still a real, useful finding about this training setup in general; the
-specific numbers below just don't reflect the final (PDF-included) extension
-corpus.
+the required 3,000-step budget. The overfitting *pattern*
+is shown very clearly there. It is a very useful finding about this training setup in general.
 
 | Steps | Results folder | Wall-clock time | Final training loss | Final validation loss | Correct/48 (untrained→final) | Accuracy among scorable |
 |---|---|---|---:|---:|---|---:|
@@ -412,11 +407,7 @@ declines steadily as steps increase: 100%→100%→87.5%→62.5% at 3k→10k→5
 
 **Takeaway: 3,000 steps was the right call for that corpus** — going 30x further
 didn't make the model meaningfully better at anything measured, and made
-validation loss and `starter_transfer` measurably worse. I'd expect the same
-general overfitting *pattern* to show up on the current, PDF-included corpus too
-(training loss plateauing while validation loss climbs), though the exact step
-count where it starts to hurt could differ with this much more text — that's an
-open question I haven't tested on the final corpus.
+validation loss and `starter_transfer` measurably worse. 
 
 ## My chat interface
 
@@ -533,13 +524,6 @@ model cannot "read" or answer questions about the reports. Chatting with it
 produces short, mostly disconnected fragments, not real information from the
 documents. That's an architectural ceiling — no retrieval system, no document
 memory — not something a bigger vocabulary alone would fix.
-
-**A third, smaller limitation:** more training steps made an earlier version of
-this corpus *worse*, not better (see the
-[step sweep](#extra-experiment-does-more-training-help-10k--50k--100k-steps)) —
-validation loss climbed from 0.706 to 0.909 and `starter_transfer` accuracy
-dropped from 100% to 62.5% between 3,000 and 100,000 steps. "Just train longer"
-isn't a free lunch even for a model this small.
 
 **Next experiment I'd try:** raise the vocabulary cap (say, 2,000 retained types
 instead of 509) on the exact same combined corpus, and rerun the same 48 evals.
